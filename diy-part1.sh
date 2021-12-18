@@ -15,3 +15,4 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+src-git https://github.com/MrH723/openwrt-packages
